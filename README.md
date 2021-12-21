@@ -18,6 +18,7 @@
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="WLP-pic" height="150" style="border-radius:50px;" src="https://instagram.fudi4-1.fna.fbcdn.net/v/t51.2885-19/s150x150/245233753_3015449272071684_7340851301117864702_n.jpg?_nc_ht=instagram.fudi4-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=fnTQ5rgRnX8AX9-PklC&tn=2pZySN-s3kFPj732&edm=ALbqBD0BAAAA&ccb=7-4&oh=a279ef85ab4ce9c7ad16ec9059744e84&oe=61BA2926&_nc_sid=9a90d6">
+    
 </div>
  <div>
   ---------------------------------------------------------------------
