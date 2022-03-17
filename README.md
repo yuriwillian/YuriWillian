@@ -1,8 +1,6 @@
 ### Ooi! Eu sou Yuri Willian
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
-- 👯 Quero contribuir na solução de problemas para aumentar minha capacidade de resolver problemas!
+- 🌱 Estudando AngularJS
 - 📫 Contate-me no email: yuriwilian@gmail.com
 - 😄 Pronouns: ele/dele
 
@@ -17,7 +15,7 @@
   <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    
+  <img align="center" alt="Yuri-AngularJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   </div>
   
  <div>
