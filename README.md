@@ -1,6 +1,6 @@
 ### Ooi! Eu sou Yuri Willian
 
-- 🌱 Estudando AngularJS
+- 🌱 Estudando Node.js e React.js
 - 📫 Contate-me no email: yuriwilian@gmail.com
 - 😄 Pronouns: ele/dele
 
