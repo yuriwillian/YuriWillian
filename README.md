@@ -1,9 +1,9 @@
 ### Ooi! Eu sou Yuri Willian
 
-- 🌱 Estudando Node.js e React.js
-- 📫 Contate-me no email: yuriwilian@gmail.com
-- ✍🏻 Estou criando: Uma galeria de arte com Amin Page capaz de incluir novas artes na Home Page via Upload de arquivos.
-- 📑 Nesse projeto estou utilizando: Docker, Styled-components, React, Node, MongoDB, Mongoose e entre outras tecnologias...
+- 🌱 <strong>Estudando:</strong> Node.js e React.js
+- 📫 <strong>Contate-me no email:</strong> yuriwilian@gmail.com
+- ✍🏻 <strong>Estou criando:</strong> Uma galeria de arte com Amin Page capaz de incluir novas artes na Home Page via Upload de arquivos.
+- 📑 <strong>Nesse projeto estou utilizando:</strong> Docker, Styled-components, React, Node, MongoDB, Mongoose e entre outras tecnologias...
 
 <div align="center">
   <a href="https://github.com/yuriwillian">
