@@ -2,9 +2,8 @@
 
 - 🌱 Estudando Node.js e React.js
 - 📫 Contate-me no email: yuriwilian@gmail.com
-- ✍🏻 Atualmente estou desenvolvendo: Uma galeria de arte com Amin Page capaz de incluir novas artes na Home Page via Upload de arquivos.
+- ✍🏻 Estou criando: Uma galeria de arte com Amin Page capaz de incluir novas artes na Home Page via Upload de arquivos.
 - 📑 Nesse projeto estou utilizando: Docker, Styled-components, React, Node, MongoDB, Mongoose e entre outras tecnologias...
-- 😄 Pronome: ele/dele
 
 <div align="center">
   <a href="https://github.com/yuriwillian">
