@@ -1,6 +1,6 @@
 ### Ooi! Eu sou Yuri Willian
 
-- 🌱 <strong>Estudando:</strong> Node.js e React.js
+- 🌱 <strong>Estudando:</strong> Node.js e Vue.js
 - 📫 <strong>Contate-me no email:</strong> yuriwilian@gmail.com
 - ✍🏻 <strong>Estou criando:</strong> Uma galeria de arte com Amin Page capaz de incluir novas artes na Home Page via Upload de arquivos.
 - 📑 <strong>Nesse projeto estou utilizando:</strong> Docker, Styled-components, React, Node, MongoDB, Mongoose e entre outras tecnologias...
