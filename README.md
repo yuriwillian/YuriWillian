@@ -3,7 +3,7 @@
 - 🌱 <strong>Estudando:</strong> Node.js e Angular 13
 - 📫 <strong>Contate-me no email:</strong> yuriwilian@gmail.com
 - ✍🏻 <strong>Estou criando:</strong> Uma galeria de arte com Amin Page capaz de incluir novas artes na Home Page via Upload de arquivos.
-- 📑 <strong>Nesse projeto estou utilizando:</strong> AngularJS, @media, grid responsiva e uma <a href="https://staticforms.xyz">API do Static Forms </a>
+- 📑 <strong>Nesse projeto estou utilizando:</strong> AngularJS, @media, grid responsiva e uma <a href="https://staticforms.xyz" target="_blank">API do Static Forms </a>
 
 <div align="center">
   <a href="https://github.com/yuriwillian">
