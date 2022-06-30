@@ -1,6 +1,6 @@
 ### Ooi! Eu sou Yuri Willian
 - 🥷🏼 <strong>Portifólio:</strong> <a href="https://yuriwillian.vercel.app" target="_blank">CLIQUE AQUI!</a>
-- 🌱 <strong>Estudando:</strong> Node.js e Angular 13
+- 🌱 <strong>Estudando:</strong> TypeScript e Angular 13
 - 📫 <strong>Contate-me no email:</strong> yuriwilian@gmail.com
 - ✍🏻 <strong>Atualmente estou criando:</strong> Uma galeria de arte online.
 - 📑 <strong>Nesse projeto estou utilizando:</strong> AngularJS, @media, grid responsiva e uma <a href="https://staticforms.xyz" target="_blank">API do Static Forms </a>
