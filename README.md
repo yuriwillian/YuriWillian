@@ -31,7 +31,12 @@
   
 </div>
 
-<form>
-  <h1>Fale comigo preenchendo os campos abaixo:</h1>
-  <input type="text" placeholder="teste">
-</form>
+<div>
+  <button onclick="mensagem()">Teste</button>
+</div>
+
+<script>
+  mensagem(){
+    window.alert("Funcionou!!")
+  }
+</script>
