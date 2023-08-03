@@ -5,11 +5,6 @@
 - ✍🏻 <strong>Atualmente estou criando:</strong> Uma galeria de arte online. <a href="https://artluetygallery.com">CLIQUE PARA VER🔗</a>
 - 📑 <strong>Nesse projeto estou utilizando:</strong> AngularJS, @media, grid responsiva e uma <a href="https://staticforms.xyz" target="_blank">API do Static Forms </a>
 
-<div align="center">
-  <a href="https://github.com/yuriwillian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriwillian&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriwillian&layout=compact&langs_count=7&theme=blue"/>
-</div>
 
   
   <div style="display: inline_block"><br>
