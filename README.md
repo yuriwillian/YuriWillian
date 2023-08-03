@@ -2,7 +2,7 @@
 - 🥷🏼 <strong>Portifólio:</strong> <a href="https://yuriwillian.vercel.app" target="_blank">CLIQUE AQUI!</a>
 - 🌱 <strong>Estudando:</strong> TypeScript
 - 📫 <strong>Contate-me no email:</strong> yuriwilian@gmail.com
-- ✍🏻 <strong>Atualmente estou criando:</strong> Uma galeria de arte online. <a href="https://artluetygallery.com">CLIQUE PARA VER🔗</a>
+- ✍🏻 <strong>Atualmente estou criando:</strong> Uma galeria de arte online. <a href="https://art-luety-gallery.vercel.app/">CLIQUE PARA VER🔗</a>
 - 📑 <strong>Nesse projeto estou utilizando:</strong> AngularJS, @media, grid responsiva e uma <a href="https://staticforms.xyz" target="_blank">API do Static Forms </a>
 
 
